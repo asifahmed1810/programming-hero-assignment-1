@@ -1,0 +1,41 @@
+/* import font */
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: Azeret Mono;
+    margin: 0px;
+}
+
+/*----------------- nav-bar-style start-------------- */
+
+.navbar-style {
+    width: 100%;
+    height: 100px;
+
+
+}
+
+.navbar-style-content {
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-between;
+    margin-left: 110px;
+    margin-right: 110px;
+}
+
+.navbar-style-content p {
+    color: rgb(13, 19, 33);
+
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.navbar-style-content button {
+    width: 228px;
+    height: 58px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    border-radius: 8px;
+    opacity: 0.8;
+}
+/*---------------- navbar style end-------------- */
