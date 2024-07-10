@@ -319,7 +319,7 @@
 .banner-3 {
     width: 1140px;
     height: 777px;
-  
+
     margin: 0 auto;
     margin-bottom: 149px;
 }
@@ -327,7 +327,7 @@
 .banner-3-content-1 {
     width: 852px;
     height: 115px;
-  
+
     margin: 0 auto;
     margin-bottom: 48px;
 }
@@ -350,7 +350,7 @@
 .banner-3-content-2 {
     width: 1140px;
     height: 614px;
-   
+
 
 }
 
@@ -362,3 +362,171 @@
 }
 
 /* --------------banner 3 style ends here--------------- */
+
+
+/* ------------banner 4 style start here------------- */
+
+.banner-4 {
+    width: 1140px;
+    height: 463px;
+   
+    margin: 0 auto;
+}
+
+.banner-4-content-1 {
+    width: 852px;
+    height: 115px;
+   
+    margin: 0 auto;
+    margin-bottom: 48px;
+}
+
+.banner-4-content-1-div h1 {
+    color: rgb(13, 19, 33);
+    text-align: center;
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.banner-4-content-1-div p {
+    color: rgb(13, 19, 33);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.banner-4-content-2 {
+    height: 296px;
+    width: 1140px;
+    
+    display: flex;
+    gap: 24px;
+
+}
+
+.banner-4-content-2-div-1 {
+    width: 364px;
+    height: 100%;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 40px;
+    border-radius: 16px;
+
+    background: rgba(255, 76, 30, 0.05);
+
+
+}
+
+.banner-4-content-2-div-1 img {
+    width: 56px;
+    height: 56px;
+}
+
+.banner-4-content-2-div-1 h5 {
+    color: rgb(13, 19, 33);
+
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.banner-4-content-2-div-1 p {
+    color: rgb(13, 19, 33);
+
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.banner-4-content-2-div-1 a {
+    color: rgb(13, 19, 33);
+
+    font-size: 14px;
+    font-weight: 700;
+}
+
+
+.banner-4-content-2-div-2 {
+    width: 364px;
+    height: 100%;
+    display: flex;
+   
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 40px;
+    border-radius: 16px;
+
+    background: rgba(0, 76, 232, 0.05);
+
+
+}
+
+.banner-4-content-2-div-2 img {
+    width: 56px;
+    height: 56px;
+}
+
+.banner-4-content-2-div-2 h5 {
+    color: rgb(13, 19, 33);
+
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.banner-4-content-2-div-2 p {
+    color: rgb(13, 19, 33);
+
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.banner-4-content-2-div-2 a {
+    color: rgb(13, 19, 33);
+
+    font-size: 14px;
+    font-weight: 700;
+}
+
+
+.banner-4-content-2-div-3 {
+    width: 364px;
+    height: 100%;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 40px;
+    border-radius: 16px;
+
+    background: rgba(255, 223, 0, 0.05);
+
+
+}
+
+.banner-4-content-2-div-3 img {
+    width: 56px;
+    height: 56px;
+}
+
+.banner-4-content-2-div-3 h5 {
+    color: rgb(13, 19, 33);
+
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.banner-4-content-2-div-3 p {
+    color: rgb(13, 19, 33);
+
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.banner-4-content-2-div-3 a {
+    color: rgb(13, 19, 33);
+
+    font-size: 14px;
+    font-weight: 700;
+}
+/* -----------banner 4 style ends here--------------- */
