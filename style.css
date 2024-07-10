@@ -120,16 +120,17 @@
 .banner-2 {
     width: 1140px;
     height: 1470px;
-   
+
     margin: 0 auto;
     margin-top: 74px;
     padding: 80px 97px 80px 97px;
+    margin-bottom: 102px;
 }
 
 .banner-2-content-1 {
     width: 852px;
     height: 115px;
-   
+
     margin: 0 auto;
     margin-bottom: 48px;
 }
@@ -154,7 +155,7 @@
 .banner-2-content-2 {
     width: 946px;
     height: 336px;
-  
+
     margin: 0 auto;
     padding: 48px;
     display: flex;
@@ -205,7 +206,7 @@
 .banner-2-content-3 {
     width: 946px;
     height: 336px;
-   
+
     margin: 0 auto;
     padding: 48px;
     display: flex;
@@ -216,37 +217,41 @@
 .banner-2-content-3-div-left {
     height: 100%;
     width: 35%;
-  
-    
+
+
 }
 
 .banner-2-content-3-div-left img {
     width: 223.2px;
     height: 208.85px;
 }
+
 .banner-2-content-3-div-right {
     height: 100%;
     width: 65%;
-   
+
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    
+
 }
-.banner-2-content-3-div-right h4{
+
+.banner-2-content-3-div-right h4 {
     color: rgba(13, 19, 33, 0.7);
     font-size: 24px;
     font-weight: 700;
 
 }
-.banner-2-content-3-div-right p{
+
+.banner-2-content-3-div-right p {
     color: rgb(13, 19, 33);
     font-size: 16px;
     font-weight: 400;
     padding-right: 130px;
 
 }
-.banner-2-content-3-div-right button{
+
+.banner-2-content-3-div-right button {
     width: 150px;
     height: 48px;
     box-sizing: border-box;
@@ -257,18 +262,18 @@
 .banner-2-content-4 {
     width: 946px;
     height: 336px;
-   
+
     margin: 0 auto;
     padding: 48px;
     display: flex;
-   
+
 
 }
 
 .banner-2-content-4-div-left {
     max-height: 100%;
     max-width: 70%;
-   
+
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -305,3 +310,55 @@
 
 }
 
+/*------------------------ banner 2 style ends  here----------------- */
+
+
+
+/* --------------banner 3 style starts---------------------- */
+
+.banner-3 {
+    width: 1140px;
+    height: 777px;
+  
+    margin: 0 auto;
+    margin-bottom: 149px;
+}
+
+.banner-3-content-1 {
+    width: 852px;
+    height: 115px;
+  
+    margin: 0 auto;
+    margin-bottom: 48px;
+}
+
+.banner-3-content-1-div h1 {
+    color: rgb(13, 19, 33);
+    text-align: center;
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.banner-3-content-1-div p {
+    color: rgb(13, 19, 33);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.banner-3-content-2 {
+    width: 1140px;
+    height: 614px;
+   
+
+}
+
+.banner-3-content-2-div iframe {
+    padding: 32px;
+    width: 1076px;
+    height: 550px;
+    border-radius: 16px;
+}
+
+/* --------------banner 3 style ends here--------------- */
